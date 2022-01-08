@@ -1,0 +1,2 @@
+# Logistic Regression
+该部分主要复现了吴恩达深度学习课程中的第一大节课所讲内容，该章节主要通过Logistic Regression介绍了神经网络的基础内容
